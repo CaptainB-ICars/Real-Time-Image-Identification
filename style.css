@@ -1,0 +1,57 @@
+body{
+  background-image:url("Best-switch-designs.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #F6EED3;
+  border-width: 5;
+  border-style: solid;
+  border-color: #F6EED3;
+} 
+
+.bbbb{
+  color: #F6EED3;
+  border-width: 5;
+  border-style: solid;
+  border-color: #F6EED3;
+  background-color:#6B665E ;
+  width: 100;
+}
+
+.aaaa{
+  color: #F6EED3;
+  border-width: 5;
+  border-style: solid;
+  border-color: #F6EED3;
+  background-color:#6B665E ;
+  width: 100;
+}
+
+.ffff{
+  color: #F6EED3;
+  border-width: 5;
+  border-style: solid;
+  border-color: #F6EED3;
+  width: 500;
+}
+
+canvas{
+  border-width: 5;
+  border-style: solid;
+  border-color: #F6EED3;
+}
+
+.dddd{
+  font-family: 'Comforter Brush', cursive;
+  background-image:url(t.jpg);
+  position: fixed;
+  bottom: 10;
+  font-size: 20px;
+  width: 100%;
+  color: #F6EED3;
+  border-width: 3;
+  border-style: solid;
+  border-color: #F6EEd3;
+}
+
+
+
